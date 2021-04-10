@@ -10,8 +10,6 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource,UITableViewDelegate {
     
-    var a = 10
-    var b = 20
     var xname = [String]()
     var xgender = [String]()
     var xcourse = [String]()
